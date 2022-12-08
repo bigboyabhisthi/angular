@@ -3024,9 +3024,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.1"
@@ -3193,11 +3193,6 @@ dns-txt@^2.0.2:
   integrity sha1-uR2Ab10nGI5Ks+fRB9iBocxGQrY=
   dependencies:
     buffer-indexof "^1.0.0"
-
-document-register-element@^1.7.2:
-  version "1.14.10"
-  resolved "https://registry.yarnpkg.com/document-register-element/-/document-register-element-1.14.10.tgz#a7bd025e6b73bd827fec2d8e90aba755e99387f5"
-  integrity sha512-w5UA37hEIrs+9pruo2yR5UD13c4UHDlkqqjt4qurnp7QsBI9b1IOi8WXUim+aCqKBsENX3Z/cso7XMOuwJH1Yw==
 
 dom-serialize@^2.2.1:
   version "2.2.1"
